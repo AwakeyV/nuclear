@@ -1,0 +1,19 @@
+{
+  "block.nuclear.uranium_ore" : "Uranium Ore",
+  "item.nuclear.raw_uranium": "Raw Uranium",
+  "item.nuclear.radioactive_carrot": "Radioactive Carrot",
+  "item.nuclear.radioactive_bread": "Radioactive Bread",
+  "item.nuclear.radioactive_chicken": "Radioactive Cooked Chicken",
+  "item.nuclear.radioactive_apple": "Radioactive Apple",
+  "item.nuclear.omnipotent_apple": "Omnipotent Apple",
+  "item.nuclear.radioactive_baked_potato": "Radioactive Baked Potato",
+  "item.nuclear.radioactive_cooked_beef": "Radioactive Cooked Beef",
+  "item.nuclear.radioactive_beetroot": "Radioactive Beetroot",
+  "item.nuclear.radioactive_cooked_cod": "Radioactive Cooked Cod",
+  "item.nuclear.radioactive_cooked_mutton": "Radioactive Cooked Mutton",
+  "item.nuclear.radioactive_cooked_porkchop": "Radioactive Cooked PorkChop",
+  "item.nuclear.radioactive_cooked_rabbit": "Radioactive Cooked Rabbit",
+  "item.nuclear.radioactive_cooked_salmon": "Radioactive Cooked Salmon",
+
+  "itemgroup.nuke": "Nuclear Nourishment"
+}
