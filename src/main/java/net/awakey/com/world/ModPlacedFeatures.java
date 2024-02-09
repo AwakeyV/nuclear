@@ -24,7 +24,7 @@ public class ModPlacedFeatures {
         var configuredFeatureRegistryEntryLookup = context.getRegistryLookup(RegistryKeys.CONFIGURED_FEATURE);
 
         register(context, URANIUM_ORE_PLACED_KEY, configuredFeatureRegistryEntryLookup.getOrThrow(ModConfiguredFeatures.URANIUM_ORE_KEY),
-                ModOrePlacement.modifiersWithCount(20, // Veins per Chunk
+                ModOrePlacement.modifiersWithCount(15, // Veins per Chunk
                         HeightRangePlacementModifier.uniform(YOffset.fixed(-80), YOffset.fixed(80))));
 
 

@@ -26,13 +26,13 @@ public class ModConfiguredFeatures {
         RuleTest deepslateReplacables = new TagMatchRuleTest(BlockTags.DEEPSLATE_ORE_REPLACEABLES);
 
 
-        List<OreFeatureConfig.Target> overworldCoalOres =
+        List<OreFeatureConfig.Target> overworldCUraniumOres =
                 List.of (OreFeatureConfig.createTarget(deepslateReplacables, ModBlocks.URANIUM_ORE.getDefaultState()));
 
 
 
 
-        register(context, URANIUM_ORE_KEY, Feature.ORE, new OreFeatureConfig(overworldCoalOres, 12));
+        register(context, URANIUM_ORE_KEY, Feature.ORE, new OreFeatureConfig(overworldCUraniumOres, 12));
 
 
     }
